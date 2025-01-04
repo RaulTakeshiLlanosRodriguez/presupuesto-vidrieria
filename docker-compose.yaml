@@ -1,0 +1,5 @@
+services:
+  api:
+    image: "raul2912/api-deploy"
+    ports: 
+      - "3000:8080"

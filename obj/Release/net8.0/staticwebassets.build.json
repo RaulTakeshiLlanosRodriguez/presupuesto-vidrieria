@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6OVUG9aKIJvvpbBHSAg9kEIclyPzZFW7mdeQVlDOXLo=",
+  "Source": "ApiPresupuesto",
+  "BasePath": "_content/ApiPresupuesto",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
